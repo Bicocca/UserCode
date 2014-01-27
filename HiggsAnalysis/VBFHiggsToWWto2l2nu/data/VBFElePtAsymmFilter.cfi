@@ -1,7 +1,0 @@
-  module elePtAsymmFiltering = VBFElePtFilter
-    {
-      InputTag GSFInputTag  = refResolver
-      double firstPtMin = 0 # GeV
-      double secondPtMin = 0 # GeV
-      bool testCharge = false
-    }

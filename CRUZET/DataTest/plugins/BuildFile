@@ -1,4 +1,0 @@
-<library file="plugins.cc deltaR.cc" name=CRUZETDataTestPlugins>
-  <flags EDM_PLUGIN=1>
-  <use name=CRUZET/DataTest>
-</library>

@@ -1,4 +1,0 @@
-  module refResolver = AmbResolverRef {
-    InputTag src = pixelMatchGsfElectrons
-    bool filter = false
- }

@@ -1,2 +1,0 @@
-### varX cutX varY cutY
-CJV_30      0.9        Dphi_RECO_l12       2.0

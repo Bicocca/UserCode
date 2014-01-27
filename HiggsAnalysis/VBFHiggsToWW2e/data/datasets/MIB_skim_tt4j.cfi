@@ -1,8 +1,0 @@
-source = PoolSource 
-{ 
-  untracked vstring fileNames = 
-    {
-    "file:/gwtera2/users/govoni/VBF/skims/tt4j_alpgen_152/VBFskim_1.root",
-    "file:/gwtera2/users/govoni/VBF/skims/tt4j_alpgen_152/VBFskim_2.root"
-    }
-}

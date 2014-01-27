@@ -1,5 +1,0 @@
-module channelSelector = VBFMCChannelFilter
-{
-  InputTag MCtruthInputTag = genParticleCandidates
-  int32 channel = 2 #PG 1 = uu, 2 = ee, 3 = ue
-}

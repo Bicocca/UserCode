@@ -1,6 +1,0 @@
-module vbfJetVetoFiltering = VBFJetVetoFilter
-{
-  InputTag jetInputTag = tagJets:otherJets
-  double jetEtaMax = 3.0
-  double jetPtMin = 3 #GeV
-}

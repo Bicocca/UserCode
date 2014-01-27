@@ -1,8 +1,0 @@
-module jetCleaner = VBFJetCleaning
-  {
-    InputTag src = iterativeCone5CaloJets
-    InputTag GSFInputTag = refEleIsolation
-    double maxDeltaR = 0.5
-    double maxHEoverEmE = 0.2
-    double minEleOJetEratio = 0. //PG i.e. no cut
-  }

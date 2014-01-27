@@ -1,6 +1,0 @@
-<use name=HiggsAnalysis/PhantomTest>
-#<use name=HiggsAnalysis/VBFHiggsToWWto2l2nu>
-
-<library file="plugins.cc VBFTrivialAnalysis.cc VBFKinematics.cc" name=HiggsAnalysisPhantomTestPlugins>
-  <flags EDM_PLUGIN=1>
-</library>

@@ -1,3 +1,0 @@
-/data2/calibrator/NTUPLES/Run2011A/WZAnalysis/WZAnalysis_EG_Run2010A-Apr21ReReco-v1.root
-/data2/calibrator/NTUPLES/Run2011A/WZAnalysis/WZAnalysis_Electron_Run2010A-Apr21ReReco-v1.root
-

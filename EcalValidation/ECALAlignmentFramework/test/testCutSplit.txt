@@ -1,6 +1,0 @@
-###################################
-#### Cut for Analysis workflow ####
-###################################
-(ETSC>30 && met>30 && mishits <= 0 && MT>50)                                && pT>20 && eleTrkIso/pT < 0.1 && eleEcalIso/pT < 0.1 && (eleHcalIsoD1 + eleHcalIsoD2)/pT < 0.1 && HoE<0.1 && ((abs(eta) <= 1.5  && abs(SigmaIEtaIEta)<0.014) || (abs(eta) >= 1.5 && abs(SigmaIEtaIEta)<0.035))
-# (ETSC>30 && met>30 && mishits <= 0 && MT>50)                                && pT>20 && eleTrkIso/pT < 0.1 && eleEcalIso/pT < 0.1 && (eleHcalIsoD1 + eleHcalIsoD2)/pT < 0.1 && HoE<0.1 && ((abs(eta) <= 1.5  && abs(SigmaIEtaIEta)<0.014) || (abs(eta) >= 1.5 && abs(SigmaIEtaIEta)<0.035))
-#(ETSC>30 && met>30 && mishits <= 0 && MT>50)  && ((abs(eta) <= 1.5 && (eleTrkIso + eleEcalIso + eleHcalIsoD1 + eleHcalIsoD2)/pT < 0.07 && abs(SigmaIEtaIEta)<0.01) || (abs(eta) >= 1.5 && (eleTrkIso + eleEcalIso + eleHcalIsoD1 + eleHcalIsoD2)/pT < 0.06 && abs(SigmaIEtaIEta)<0.03))

@@ -1,4 +1,0 @@
-/data2/calibrator/NTUPLES/Run2011A/WZAnalysis/WZAnalysis_SingleElectron_Run2011A-May10ReReco-v1_160329-163869.root
-#/data2/calibrator/NTUPLES/MC/WZAnalysis/WZAnalysis_WToENu_TuneZ2_7TeV-pythia6_Summer11-PU_S3_START42_V11-v2_AODSIM.root
-
-

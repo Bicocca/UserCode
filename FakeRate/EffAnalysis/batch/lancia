@@ -1,1 +1,0 @@
-./Filtra_eventi.py /afs/cern.ch/user/s/salerno/scratch0/FakeElectronStudy/LastVersion/CMSSW_1_5_2/src/ listHZZ.txt /tmp /castor/cern.ch/user/s/salerno/FakeRate/cmssw152HZZ/ReducedTreeNew/ 8nm 

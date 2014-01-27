@@ -1,6 +1,0 @@
-etaStart -85
-etaEnd    86
-etaWidth   5
-phiStart   1
-phiEnd   361
-phiWidth 360

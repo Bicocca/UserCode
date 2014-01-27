@@ -1,4 +1,0 @@
-module VBfilter = VBFMCProcessFilter
-{
-  untracked string moduleLabel = "source"
-}

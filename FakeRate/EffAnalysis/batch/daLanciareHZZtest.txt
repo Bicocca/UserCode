@@ -1,3 +1,0 @@
-'/castor/cern.ch/user/s/salerno/FakeRate/cmssw152HZZ/Z1jet_0ptw100-alpgen/FakeRateAnalysis_1.root',
-'/castor/cern.ch/user/s/salerno/FakeRate/cmssw152HZZ/Z1jet_0ptw100-alpgen/FakeRateAnalysis_10.root',
-'/castor/cern.ch/user/s/salerno/FakeRate/cmssw152HZZ/Z1jet_0ptw100-alpgen/FakeRateAnalysis_100.root',

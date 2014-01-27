@@ -1,9 +1,0 @@
-module tagJets = VBFJetTagger
-  {
-    InputTag jetInputTag  = iterativeCone5CaloJets
-    string tagJetsName = "tagJets"
-    string otherJetsName = "otherJets"
-    double jetEtaMax = 5
-    double jetPtMin = 15 # GeV
-    double gatherConeSize = 0.5
-  }

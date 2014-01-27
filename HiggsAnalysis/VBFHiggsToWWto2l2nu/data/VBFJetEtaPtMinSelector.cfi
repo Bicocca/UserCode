@@ -1,6 +1,0 @@
-module jetUEPU = VBFJetEtaPtSelecting
-  {
-    InputTag src = jetCleaner
-    double maxEta = 5
-    double minPt = 15 # GeV
-  }
